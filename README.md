@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolmanidubey&label=Profile%20views&color=0e75b6&style=flat" alt="anmolmanidubey" /> </p>
 
-- 🔭 I’m currently working on **Predictive Analytics**
+- 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **Neural Networks and Deep Learning**
 
